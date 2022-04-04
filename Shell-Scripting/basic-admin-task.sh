@@ -5,15 +5,15 @@
 
 echo
 echo This script will run basic Adminstration task
-echo
+echo top command output:
 top | head -10
-echo
+echo Disk Space output:
 df -h
-echo
+echo Free Space:
 free -h
-echo
+echo Uptime:
 uptime
-echo
+echo Input-Output Status:
 iostat
-echo
+echo 
 echo End of Script.
