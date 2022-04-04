@@ -6,7 +6,7 @@
 echo
 echo This script will run basic Adminstration task
 echo
-top | head 10
+top | head -10
 echo
 df -h
 echo
