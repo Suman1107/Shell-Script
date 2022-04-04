@@ -15,7 +15,7 @@ echo Uptime:
 uptime
 echo Input-Output Status:
 iostat
-echo 
+echo Interface Configuration:
 ifconfig
 echo
 echo End of Script.
