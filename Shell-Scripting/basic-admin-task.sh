@@ -16,4 +16,6 @@ uptime
 echo Input-Output Status:
 iostat
 echo 
+ifconfig
+echo
 echo End of Script.
