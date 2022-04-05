@@ -6,7 +6,7 @@
 p=pwd
 l='ls -l'
 wi=whoami
-c= cal
+c='cal'
 
 echo Running Variables
 echo
