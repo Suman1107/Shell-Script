@@ -6,7 +6,8 @@
 p=pwd
 l='ls -l'
 wi=whoami
-c='cal'
+d=date
+c='cal 2022'
 
 echo Running Variables
 echo
@@ -15,6 +16,8 @@ echo
 $l
 echo
 $wi
+echo
+$d
 echo
 $c
 echo End Of Script
