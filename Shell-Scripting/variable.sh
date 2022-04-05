@@ -4,7 +4,7 @@
 #Date: 05-04-22
 
 p=pwd
-l=ls-l
+l=ls -l
 wi=whoami
 c= "cal 2022"
 
