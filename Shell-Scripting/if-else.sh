@@ -10,8 +10,9 @@ read name
 echo "Hello $name , Do you work in IT ? (y/n)"
 read like
 If ["$like" = y]
-then echo "Cool, you are at the right track"
+    then echo "Cool, you are at the right track"
+fi
 elif ["$like" = n]
-then echo "You should try it, It's really cool"
+    then echo "You should try it, It's really cool"
 fi
 
